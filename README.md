@@ -1,16 +1,14 @@
-# jummannew
+# AppCount
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple Flutter app that displays a counter with an increment button. When the button is pressed, the counter increases by 1. This app demonstrates basic state management using StatefulWidget and the setState method.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basic Flutter setup with MaterialApp and Scaffold.
+Counter that updates dynamically when the "+" button is clicked.
+Custom AppBar with color and shadow effects.
+This project is a great starting point for beginners learning Flutter state management and UI building.
